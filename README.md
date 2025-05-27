@@ -24,19 +24,19 @@ Welcome to **Artisoria** – a mission-driven e-commerce platform empowering loc
 
 ---
 
-## 🧭 Usage & Screenshots
+## Usage & Screenshots
 
 **Artisoria** is designed for two types of users: **local artisans (sellers)** and **customers (buyers)**. Sellers can sign up to upload handmade product listings, manage inventory, and track customer orders using an intuitive dashboard. Buyers can explore products through a reels-style vertical feed, add items to their cart, and place orders with a smooth, mobile-first checkout experience.  
 
 Explore the platform at: [https://artisoria.great-site.net](https://artisoria.great-site.net)
 
-### 📸 Screenshots:
+### Screenshots:
 
 > ![screenshot](https://user-images.githubusercontent.com/your-placeholder/screenshot.png)  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 - HTML, CSS, JavaScript 
@@ -49,7 +49,7 @@ Explore the platform at: [https://artisoria.great-site.net](https://artisoria.gr
 
 ---
 
-## ⚙️ Installation / Setup Instructions
+## Installation / Setup Instructions
 
 Follow the steps below to set up and run the Artisoria project on your local machine using **XAMPP** and **Visual Studio Code**:
 
