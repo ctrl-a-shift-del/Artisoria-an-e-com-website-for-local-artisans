@@ -34,8 +34,11 @@ Explore the platform at: [https://artisoria.great-site.net](https://artisoria.gr
 
 ### Screenshots:
 
+Buyer's side:
 > ![screenshot1](./screenshot1.jpg)
 > ![screenshot2](./screenshot2.jpg)
+
+Seller's side:
 > ![screenshot3](./screenshot3.jpg)
 
 ---
