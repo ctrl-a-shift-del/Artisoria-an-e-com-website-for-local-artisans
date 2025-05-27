@@ -77,6 +77,7 @@ Follow the steps below to set up and run the Artisoria project on your local mac
 * Navigate to your `C:\xampp\htdocs` directory. (default installation of xamp in C drive)
 * Create a new folder `ecommerce`.
 * Copy and paste the contents of the downloaded GitHub project into this folder.
+* Also create a folder named "uploads" inside ecommerce folder (This is where the sellers product images would be stored)
 
 ### 4. Set Up the Database
 
