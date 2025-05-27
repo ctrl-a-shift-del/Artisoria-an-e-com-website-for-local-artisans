@@ -13,7 +13,7 @@ Welcome to **Artisoria** – a mission-driven e-commerce platform empowering loc
 
 ---
 
-## ✨ Features
+## Features
 
 - **Reels-Style Product Explorer** for buyers with swipeable product UI
 - **Add-to-Cart & Checkout System** with address input and order summary
