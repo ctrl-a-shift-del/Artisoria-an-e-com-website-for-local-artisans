@@ -1,3 +1,5 @@
+![Artisoria Banner](./banner.png)
+
 # Artisoria: E-Commerce Platform for Local Artisans
 
 Welcome to **Artisoria** – a mission-driven e-commerce platform empowering local artisans to showcase and sell their handmade creations directly to buyers.
