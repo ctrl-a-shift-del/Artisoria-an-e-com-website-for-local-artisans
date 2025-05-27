@@ -32,9 +32,9 @@ Explore the platform at: [https://artisoria.great-site.net](https://artisoria.gr
 
 ### Screenshots:
 
-> ![screenshot1](https://raw.githubusercontent.com/ctrl-a-shift-del/Artisoria-an-e-com-website-for-local-artisans/main/screenshot1.jpg)
-> ![screenshot2](https://raw.githubusercontent.com/ctrl-a-shift-del/Artisoria-an-e-com-website-for-local-artisans/main/screenshot2.jpg)
-> ![screenshot3](https://raw.githubusercontent.com/ctrl-a-shift-del/Artisoria-an-e-com-website-for-local-artisans/main/screenshot3.jpg)
+> ![screenshot1](./screenshot1.jpg)
+> ![screenshot2](./screenshot2.jpg)
+> ![screenshot3](./screenshot3.jpg)
 
 ---
 
