@@ -1,4 +1,4 @@
-![Artisoria Banner](./banner.png)
+![Artisoria Banner](./banner.jpg)
 
 # Artisoria: E-Commerce Platform for Local Artisans
 
